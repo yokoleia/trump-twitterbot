@@ -5,9 +5,9 @@
 ## usage
 
 The bot requires:
-..* installation of [Tweepy](http://www.tweepy.org/).   
-..* a twitter account with an associated Twitter Application
-..* the access keys for the Twitter Application
+* installation of [Tweepy](http://www.tweepy.org/).   
+* a twitter account with an associated Twitter Application
+* the access keys for the Twitter Application
 
 1. Add the keys for the application into the dictionary stored in `keys.py`
 2. Open the terminal
