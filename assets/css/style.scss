@@ -1,8 +1,10 @@
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 
 html,
 body {
-  font-family: lato;
+  font-family: Lato;
   height: 100%;
   background-color: #fff7f014;
   font-size: 12px;
